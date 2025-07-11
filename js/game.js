@@ -217,7 +217,7 @@ const loadUsers = async () => {
 // ğŸ“Œ SunucularÄ± yÃ¼kleyen fonksiyon
 const loadServers = async () => {
     try {
-        const response = await fetch("https://wormateserkanconnect.github.io/app2/api/servers.php");
+        const response = await fetch("https://25-yt.github.io/wormking/api/servres.php");
         const data = await response.json();
 
         if (data.success) {
