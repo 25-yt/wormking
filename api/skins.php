@@ -21428,7 +21428,7 @@
         },
         "storm_275": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/JtuVVr4.png",
+            "relativePath": "https://i.imgur.com/8rgr9sW.png",
             "createdAt": "2025-02-23 01:32:14",
             "expiresAt": "2036-02-06 01:32:14"
         },
