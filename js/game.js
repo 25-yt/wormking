@@ -7060,7 +7060,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://abol-yt.github.io/wormnew-game.js/api/skins.php',
+            url: 'https://abol-yt.github.io/wormnew-game.js/api/wftskns_1.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
