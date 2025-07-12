@@ -7015,10 +7015,10 @@ $("#background-canvas").replaceWith(`
 <a hreflang="es" href="/es/">EspaÃ±ol</a>
 </div></div>
             
-            <a class="link" hreflang="en" href="https://wormateserkanconnect.github.io/"> © 2025 WormateFriendsTurkey.io ©</a>
+            <a class="link" hreflang="en" href=""> © 2025 WormYT.io ©</a>
             
-            <a class="link" hreflang="en" href="https://skinlab.haylamday.com/">SkinLab by Wormate Friends Connect ©</a>
-          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Powered by Platen !</a>
+            <a class="link" hreflang="en" href="">SkinLab by WormYT.io ©</a>
+          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> welcome !</a>
             </footer>
 
 
