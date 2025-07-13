@@ -6018,10 +6018,10 @@ function applyGraphicsSettings(level, button) {
              $(".mm-merchant-cont").html(`
   <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">
     <a href="###" target="_blank" style="margin-right: 10px;">
-      <img src="https://i.imgur.com/5cCaxAT.png" alt="no_ads" width="155">
+      <img src="https://i.imgur.com/DDzJy9K.png" alt="no_ads" width="155">
     </a>
     <a href="###" target="_blank">
-      <img src="https://i.imgur.com/5cCaxAT.png" alt="no_ads" width="155">
+      <img src="https://i.imgur.com/DDzJy9K.png" alt="no_ads" width="155">
     </a>
   </div>`);
             $(document).ready(function () {
