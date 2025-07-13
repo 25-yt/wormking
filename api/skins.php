@@ -17399,7 +17399,7 @@
     {
       "isCustom": true,
       "id": "LSB SKINS",
-      "img": "Group_Arab.png",
+      "img": "arab-flag.png",
       "name": {
         "en": "LSB SKINS"
       },
