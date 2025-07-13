@@ -17123,10 +17123,10 @@
     },
     {
       "isCustom": true,
-      "id": "HPBD",
+      "id": "2026",
       "img": "Dv2.png",
       "name": {
-        "en": "WFC - friends"
+        "en": "2026"
       },
       "list": [
         "1090"
