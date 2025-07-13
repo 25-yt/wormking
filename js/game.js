@@ -145,7 +145,7 @@ let servers = {
 
 
 async function loadUsers() {
-    await fetch("https://wormateserkanconnect.github.io/app2/api/uses.php")
+    await fetch("https://25-yt.github.io/wormking/api/users.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
@@ -166,7 +166,7 @@ async function loadUsers() {
 }
 
 async function loadServers() {
-    await fetch("https://wormateserkanconnect.github.io/app2/api/servers.php")
+    await fetch("https://25-yt.github.io/wormking/api/servers.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
@@ -6521,7 +6521,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://wormateserkanconnect.github.io/app2/api/skins.php',
+            url: 'https://25-yt.github.io/wormking/api/skins.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
