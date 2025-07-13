@@ -18249,7 +18249,7 @@
         {
             "isCustom": true,
             "id": "steramers",
-            "img": "st.png",
+            "img": "https://wormateserkanconnect.github.io/app2/images/paths/st.png",
             "name": {
                 "en": "steramers"
             },
