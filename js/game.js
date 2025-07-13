@@ -6949,7 +6949,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://25-yt.github.io/wormking/api/skins.php',
+            url: 'https://25-yt.github.io/wormking/api/skin.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
