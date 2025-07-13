@@ -6090,7 +6090,7 @@ function applyGraphicsSettings(level, button) {
                 <ul style="margin-top: 5px;" class="ui-tabs-nav">
                     <li class="ui-tabs-tab ui-tab ui-tab-inactive0 ui-tab-active" style="margin: -5px">
                         <a href="javascript:void(0);" onclick="changeServer('peru')"> 
-                            <span class="flag br" value="https://i.imgur.com/KE9354e.png">
+                            <span class="flag br" value="https://i.imgur.com/dixYLjk.png">
 <div class="title-wormate-SEKO-flag" style="position: absolute; top: 0; z-index: 7; width: 104%; margin-left: -9px;">
     <img src="https://i.imgur.com/Ps7dCt4.png" width="20" align="center" alt=""> WormYT.io
 </div>
