@@ -13,7 +13,8 @@
             "Client_VisibleSkin": "1200",
             "Client_VisibleSkin1": "1202",
             "Client_VisibleSkin1": "1201",
-            "Client_VisibleSkin1": "1202"
+            "Client_VisibleSkin1": "1202",
+            "Client_VisibleSkin1": "1201"
         },
         {
             "id": 2,
