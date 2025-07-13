@@ -5905,7 +5905,7 @@ else {
     <button onclick="applyGraphicsSettings('high', this)">HİGHT</button>
 </div>
 
-<center><div class="hg"><a target="_blank" href="###">Active (Platen)</a></div></center>
+<center><div class="hg"><a target="_blank" href="###">Actived by (25YT)</a></div></center>
 
 
            
