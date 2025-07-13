@@ -6303,7 +6303,7 @@ function applyGraphicsSettings(level, button) {
                 
                 
                     </div>
-                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnab99rhKGuzw512Ex9ihSk-XTbUSehWbsbg&s" width="259" height="208" align="center" alt="">
+                      <img src="https://i.imgur.com/rfr25Vl.jpeg" width="259" height="208" align="center" alt="">
                   </div>
                 </div>
                 `);
