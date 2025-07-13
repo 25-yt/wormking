@@ -6092,7 +6092,7 @@ function applyGraphicsSettings(level, button) {
                         <a href="javascript:void(0);" onclick="changeServer('peru')"> 
                             <span class="flag br" value="https://i.imgur.com/KE9354e.png">
 <div class="title-wormate-SEKO-flag" style="position: absolute; top: 0; z-index: 7; width: 104%; margin-left: -9px;">
-    <img src="https://i.imgur.com/Ps7dCt4.png" width="20" align="center" alt="">Wormate Friends WormYT.io
+    <img src="https://i.imgur.com/Ps7dCt4.png" width="20" align="center" alt=""> WormYT.io
 </div>
                             </span> 
                         </a>
