@@ -367,7 +367,7 @@ ctx.value_tophs.style.fill = "#FFFFFF"; // Beyaz renk
 
 //----------------------------------------------------------
 // Yeni 1. Oyuncu BaÅŸlÄ±ÄŸÄ±nÄ± Ekle
-ctx.value_top1 = new PIXI.Text("01. PLATEN ( 10.M ) ", ctx.fontStyle.name);
+ctx.value_top1 = new PIXI.Text("01. 25YT ( 10.M ) ", ctx.fontStyle.name);
 ctx.value_top1.x = 12;
 ctx.value_top1.y = 170;
 ctx.value_top1.style.fontSize = 8; // KÃ¼Ã§Ã¼k font boyutu
@@ -5916,15 +5916,15 @@ else {
            <div style="margin: 0;" id="loa831pibur0w4gv">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   
-    <div class="label" id="titleSetings">GENEL BILDIRI</div>
+    <div class="label" id="titleSetings">WORMYT.IO</div>
     <div class="bao-list1">
       
       <input type="text" value="${theowftObjects.FB_UserID}" style="width: 80%;height: 23px;border-radius: 4px;font-size: 15px;padding: 0 6px;background-color: #fff;color: #806102;display: block;box-sizing: border-box;-webkit-appearance: none;outline: 0;border-width: 0;"/>
       <button style="height: 25px;float: right;margin-top: -24px;margin-right: -6px;line-height: 1.2;font-size: 14px;" onclick="navigator.clipboard.writeText('${theowftObjects.FB_UserID}').then(()=> alert('You ID ${theowftObjects.FB_UserID} copiado! copied!'));">Copy</button>
       <center>
-        <div class="hg"><a target="_blank" href="https://wa.me/905544655080/">AktifleÅŸtir (Ãœnal)</a> </div>
+        <div class="hg"><a target="_blank" href=""></a> </div>
       </center>
-     <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Selam arkadaÅŸlar, en geÃ§ 24 saat iÃ§erisinde aktif hale gelecektir. <a style="color: #2ae1eb; font-weight: 600;" href="https://wormatefriendsturkey.com/">https://wormatefriendsturkey.com//</a> </div>
+     <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> welcome to wormyt.io. <a style="color: #2ae1eb; font-weight: 600;" href=""></a> </div>
       
     
 </div>`);
