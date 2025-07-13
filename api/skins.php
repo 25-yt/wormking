@@ -19669,10 +19669,6 @@
             "custom": true,
             "relativePath": "https:\/\/i.imgur.com\/JR7NIxD.png"
         },
-        "25yt_01": {
-            "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/JR7NIxD.png"
-        },
         "ninawa_01": {
             "custom": true,
             "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_ninawa\/skin_ninawa_01.png"
