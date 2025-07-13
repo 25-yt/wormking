@@ -549,56 +549,56 @@
   },
   {
     "id": 278,
-    "name": "08. Brasil - WFT<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "08. Brasil - WFT<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "germania",
     "serverUrl": "wss://sao-a.wormate.io:31975/wormy",
     "status": 1
   },
   {
     "id": 27,
-    "name": "07. Brasil - WFT<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "07. Brasil - WFT<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "germania",
     "serverUrl": "wss://dal-b.wormate.io:30135/wormy",
     "status": 1
   },
   {
     "id": 276,
-    "name": "06. Brasil - WFT<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "06. Brasil - WFT<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "germania",
     "serverUrl": "wss://dal-b.wormate.io:30135/wormy",
     "status": 1
   },
   {
     "id": 275,
-    "name": "05. Brasil - WFT<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "05. Brasil - WFT<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "germania",
     "serverUrl": "wss://dal-b.wormate.io:31750/wormy",
     "status": 1
   },
   {
     "id": 274,
-    "name": "04. Brasil - WFT<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "04. Brasil - WFT<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "germania",
     "serverUrl": "wss://sao-a.wormate.io:31713/wormy",
     "status": 1
   },
   {
     "id": 273,
-    "name": "03. D E M O L I D O R<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "03. D E M O L I D O R<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "germania",
     "serverUrl": "wss://sao-a.wormate.io:31713/wormy",
     "status": 1
   },
   {
     "id": 272,
-    "name": "02. Brasil - WFT<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "02. Brasil - WFT<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "germania",
     "serverUrl": "wss://sao-a.wormate.io:30560/wormy",
     "status": 1
   },
   {
     "id": 271,
-    "name": "01. Magnifico :)<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "01. ♦️👁⃤➁５ʸ𝔱 ♝♦️<img class='team' src='https://i.imgur.com/nCOJp1W.png'/>",
     "region": "germania",
     "serverUrl": "wss://sao-a.wormate.io:30809/wormy",
     "status": 1
