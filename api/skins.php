@@ -17124,7 +17124,7 @@
     {
       "isCustom": true,
       "id": "2026",
-      "img": "Dv2.png",
+      "img": "st.png",
       "name": {
         "en": "2026"
       },
