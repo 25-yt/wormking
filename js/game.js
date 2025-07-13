@@ -6519,7 +6519,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://wormateserkanconnect.github.io/wormateserkanconnect6/api/skins.php',
+            url: 'https://25-yt.github.io/wormking/api/skins.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
