@@ -11914,7 +11914,7 @@
       "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
-      "prime": "c__yllw",
+      "prime": "c__black",
       "base": [
         "ninawa_05_8",
         "ninawa_05_7",
@@ -11927,15 +11927,15 @@
         "ninawa_05_0"
       ],
       "glow": [
-        "a__card",
-        "a_grass",
-        "a_white",
-        "a__card",
-        "a_grass",
-        "a_white",
-        "a__card",
-        "a_grass",
-        "a_white"
+        "a__black",
+        "a_black",
+        "a_black",
+        "a__black",
+        "a_black",
+        "a_black",
+        "a__black",
+        "a_black",
+        "a_black"
       ]
     },
     {
