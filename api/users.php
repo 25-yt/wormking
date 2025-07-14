@@ -5,15 +5,14 @@
         {
             "id": 1,
             "cliente_NOMBRE": "25YT",
-            "cliente_ID": "gg_116266553798958803953",
+            "cliente_ID": "gg_116152060195741273040",
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateStarted": "04-02-2025",
             "cliente_DateExpired": "04-06-9999",
             "status": 1,
             "Client_VisibleSkin": "1200",
             "Client_VisibleSkin1": "1201",
-            "Client_VisibleSkin2": "1202",
-            "Client_VisibleSkin3": "1203"
+            "Client_VisibleSkin2": "1202"
         },
         {
             "id": 2,
