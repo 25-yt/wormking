@@ -12,7 +12,8 @@
             "status": 1,
             "Client_VisibleSkin": "1200",
             "Client_VisibleSkin1": "1201",
-            "Client_VisibleSkin2": "1202"
+            "Client_VisibleSkin2": "1202",
+            "Client_VisibleSkin3": "1203"
         },
         {
             "id": 2,
@@ -22,7 +23,6 @@
             "cliente_DateStarted": "04-02-2025",
             "cliente_DateExpired": "04-06-9999",
             "status": 1,
-            "Client_VisibleSkin": "1203"
         },
         {
             "id": 3,
