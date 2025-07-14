@@ -689,224 +689,224 @@
   },
   {
     "id": 176,
-    "name": "37. WFT - VTH<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "37. WFT - VTH<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:32053/wormy",
     "status": 1
   },
   {
     "id": 175,
-    "name": "36. WFT - VTH<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "36. WFT - VTH<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:32356/wormy",
     "status": 1
   },
   {
     "id": 174,
-    "name": "35. WFT - VTH<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "35. WFT - VTH<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:32577/wormy",
     "status": 1
   },
   {
     "id": 173,
-    "name": "34. WFT - VTH<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "34. WFT - VTH<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:32405/wormy",
     "status": 1
   },
   {
     "id": 172,
-    "name": "33. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "33. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:31908/wormy",
     "status": 1
   },
   {
     "id": 171,
-    "name": "32. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "32. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:32584/wormy",
     "status": 1
   },
   {
     "id": 170,
-    "name": "31. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "31. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:31230/wormy",
     "status": 1
   },
   {
     "id": 169,
-    "name": "30. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "30. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:31163/wormy",
     "status": 1
   },
   {
     "id": 168,
-    "name": "29. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "29. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:31091/wormy",
     "status": 1
   },
   {
     "id": 167,
-    "name": "28. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "28. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:31084/wormy",
     "status": 1
   },
   {
     "id": 166,
-    "name": "27. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "27. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30786/wormy",
     "status": 1
   },
   {
     "id": 165,
-    "name": "26. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "26. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30725/wormy",
     "status": 1
   },
   {
     "id": 164,
-    "name": "25. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "25. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30702/wormy",
     "status": 1
   },
   {
     "id": 163,
-    "name": "24. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "24. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30371/wormy",
     "status": 1
   },
   {
     "id": 162,
-    "name": "23. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "23. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30339/wormy",
     "status": 1
   },
   {
     "id": 161,
-    "name": "22. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "22. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30327/wormy",
     "status": 1
   },
   {
     "id": 160,
-    "name": "21. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "21. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30208/wormy",
     "status": 1
   },
   {
     "id": 159,
-    "name": "20. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "20. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30171/wormy",
     "status": 1
   },
   {
     "id": 158,
-    "name": "19. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "19. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30161/wormy",
     "status": 1
   },
   {
     "id": 157,
-    "name": "18. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "18. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30135/wormy",
     "status": 1
   },
   {
     "id": 156,
-    "name": "17. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "17. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:32609/wormy",
     "status": 1
   },
   {
     "id": 155,
-    "name": "16. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "16. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-b.wormate.io:31534/wormy",
     "status": 1
   },
   {
     "id": 154,
-    "name": "15. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "15. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-b.wormate.io:32677/wormy",
     "status": 1
   },
   {
     "id": 153,
-    "name": "14. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "14. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-b.wormate.io:30165/wormy",
     "status": 1
   },
   {
     "id": 152,
-    "name": "13. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "13. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:32053/wormy",
     "status": 1
   },
   {
     "id": 151,
-    "name": "12. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "12. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:31353/wormy",
     "status": 1
   },
   {
     "id": 150,
-    "name": "11. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "11. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:32677/wormy",
     "status": 1
   },
   {
     "id": 149,
-    "name": "10. WFT - VTH <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "10. WFT - VTH <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:31750/wormy",
     "status": 1
   },
   {
     "id": 148,
-    "name": "09. ᵀᶜᵀⱽ Tuấn Cảnh TV<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "09. ᵀᶜᵀⱽ Tuấn Cảnh TV<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:31533/wormy",
     "status": 1
   },
   {
     "id": 147,
-    "name": "08. TEAM 👋👋 ARC <img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "08. TEAM 👋👋 ARC <img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30208/wormy",
     "status": 1
   },
   {
     "id": 146,
-    "name": "07. Kiss The Rain<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "07. Kiss The Rain<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:32212/wormy",
     "status": 1
   },
   {
     "id": 145,
-    "name": "06. Định Mệnh Bigo<img class='team' src='https://wormatefriendsturkey.com/images/team/wfc3.png'/>",
+    "name": "06. Định Mệnh Bigo<img class='team' src='https://i.imgur.com/8BpyjOn.png'/>",
     "region": "singapur",
     "serverUrl": "wss://sin-a.wormate.io:30809/wormy",
     "status": 1
