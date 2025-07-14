@@ -18745,7 +18745,7 @@
     },
     "ezi_11": {
       "custom": true,
-      "relativePath": "https://haylamday.com/images/texture/skin_ezi/skin_ezi_11.png"
+      "relativePath": "https://i.imgur.com/2x5K8QK.png"
     },
     "ezi_12": {
       "custom": true,
