@@ -17112,7 +17112,9 @@
         "en": "WFC - Friends"
       },
       "list": [
-        "1018"
+        "1018",
+        "1019",
+        "1020"
       ]
     },
     {
@@ -18959,7 +18961,7 @@
     },
     "101gaming_11": {
       "custom": true,
-      "relativePath": "https://www.baddawi.com/FDZ/images/texture/FDZ/Osama_02.png"
+      "relativePath": "https://i.imgur.com/Ennw9pX.png"
     },
     "101gaming_12": {
       "custom": true,
