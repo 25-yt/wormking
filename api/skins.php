@@ -17107,7 +17107,7 @@
     {
       "isCustom": true,
       "id": "WFC - Friends",
-      "img": "Dv.png",
+      "img": "st.png",
       "name": {
         "en": "WFC - Friends"
       },
