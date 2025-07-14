@@ -19,7 +19,7 @@
         {
             "id": 2,
             "cliente_NOMBRE": "malboro",
-            "cliente_ID": "gg_111164710572730434626",
+            "cliente_ID": "",
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateStarted": "04-02-2025",
             "cliente_DateExpired": "04-06-9999",
@@ -48,11 +48,12 @@
         {
             "id": 5,
             "cliente_NOMBRE": "Badro",
-            "cliente_ID": "gg_110308460479608050346",
+            "cliente_ID": "gg_111164710572730434626",
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateStarted": "04-02-2025",
             "cliente_DateExpired": "16-02-2026",
-            "status": 1
+            "status": 1,
+            "Client_VisibleSkin": "1203"
         },
         {
             "id": 6,
