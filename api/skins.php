@@ -11207,15 +11207,15 @@
         "25ypg_03_0"
       ],
       "glow": [
-        "a_grass",
-        "a_grass",
-        "a_grass",
-        "a_grass",
-        "a_grass",
-        "a_grass",
-        "a_grass",
-        "a_grass",
-        "a_grass"
+        "a_cornsilk",
+        "a_cornsilk",
+        "a_cornsilk",
+        "a_cornsilk",
+        "a_cornsilk",
+        "a_cornsilk",
+        "a_cornsilk",
+        "a_cornsilk",
+        "a_cornsilk"
       ]
     },
     {
