@@ -47,13 +47,12 @@
         },
         {
             "id": 5,
-            "cliente_NOMBRE": "Badro",
+            "cliente_NOMBRE": "25yt2",
             "cliente_ID": "gg_116266553798958803953",
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateStarted": "04-02-2025",
             "cliente_DateExpired": "16-02-2026",
-            "status": 1,
-            "Client_VisibleSkin": "1203"
+            "status": 1
         },
         {
             "id": 6,
