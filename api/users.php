@@ -23,7 +23,8 @@
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateStarted": "04-02-2025",
             "cliente_DateExpired": "04-06-9999",
-            "status": 1
+            "status": 1,
+            "Client_VisibleSkin": "1203"
         },
         {
             "id": 3,
