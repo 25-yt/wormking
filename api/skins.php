@@ -19108,8 +19108,8 @@
       "relativePath": "https://www.baddawi.com/FDZ/images/texture/ALG/skin_ALG_06.png"
     },
     "skin_viet_nam_che_linh_05": {
-      "custom": true,
-      "relativePath": "https://www.baddawi.com/FDZ/images/texture/SKIN/custom_skin_01.png"
+      "custom": false,
+      "relativePath": "https://i.imgur.com/OVYzarb.png"
     },
     "skin_viet_nam_tra_chanh_06": {
       "custom": true,
