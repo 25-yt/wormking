@@ -17439,7 +17439,7 @@
       ]
     },
     {
-      "isCustom": false,
+      "isCustom": true,
       "id": "Forder",
       "name": {
         "en": "team 25YT"
@@ -18571,7 +18571,7 @@
     },
     "25ypg_06": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/LjVOS0r.png"
+      "relativePath": "https://i.imgur.com/16QPFUU.png"
     },
     "25ypg_07": {
       "custom": true,
