@@ -18649,11 +18649,11 @@
     },
     "ninawa_03": {
       "custom": true,
-      "relativePath": "https://www.baddawi.com/FDZ/images/texture/FDZ/Osama_01.png"
+      "relativePath": "https://i.imgur.com/2gDVK2k.png"
     },
     "ninawa_04": {
       "custom": true,
-      "relativePath": "https://www.baddawi.com/FDZ/images/texture/FDZ/fdz_02.png"
+      "relativePath": "https://i.imgur.com/QYT1Kc6.png"
     },
     "ninawa_05": {
       "custom": true,
