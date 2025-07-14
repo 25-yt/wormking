@@ -11327,15 +11327,15 @@
         "25ypg_07_0"
       ],
       "glow": [
-        "a__ruby",
-        "a__ruby",
-        "a__ruby",
-        "a__ruby",
-        "a__ruby",
-        "a__ruby",
-        "a__ruby",
-        "a__ruby",
-        "a__ruby"
+        "a__Blue",
+        "a__Blue",
+        "a__Blue",
+        "a__Blue",
+        "a__Blue",
+        "a__Blue",
+        "a__Blue",
+        "a__Blue",
+        "a__Blue"
       ]
     },
     {
@@ -18578,7 +18578,7 @@
     },
     "25ypg_07": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/eE7LLKc.png"
+      "relativePath": "https://i.imgur.com/1zfgHwE.png"
     },
     "25ypg_08": {
       "custom": true,
