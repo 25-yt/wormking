@@ -351,7 +351,7 @@
               "Client_KeyAccecs": "XTPRIVATESKIN",
               "cliente_DateExpired": "2028-06-07",
               "status": 1,
-              "Client_VisibleSkin": "0000",
+              "Client_VisibleSkin": "1204",
               "Client_VisibleSkin1": "0000",
               "Client_VisibleSkin2": "0000",
               "Client_VisibleSkin3": "0000",
