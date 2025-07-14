@@ -12540,8 +12540,8 @@
     },
     {
       "id": 1091,
-      "guest": false,
-      "nonbuyable": false,
+      "guest": true,
+      "nonbuyable": true,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
