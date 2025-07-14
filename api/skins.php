@@ -11267,15 +11267,15 @@
         "25ypg_05_0"
       ],
       "glow": [
-        "a__ruby",
-        "a_death",
-        "a__ruby",
-        "a_death",
-        "a__ruby",
-        "a_death",
-        "a__ruby",
-        "a_death",
-        "a__ruby"
+        "a__cornsilk",
+        "a_cornsilk",
+        "a__cornsilk",
+        "a_cornsilk",
+        "a__cornsilk",
+        "a_cornsilk",
+        "a__cornsilk",
+        "a_cornsilk",
+        "a__cornsilk"
       ]
     },
     {
@@ -18569,7 +18569,7 @@
     },
     "25ypg_05": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/JJ2aRt7.png"
+      "relativePath": "https://i.imgur.com/wCcm8Bj.png"
     },
     "25ypg_06": {
       "custom": true,
