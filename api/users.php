@@ -241,6 +241,25 @@
             "cliente_DateStarted": "19-04-2025",
             "cliente_DateExpired": "20-04-2026",
             "status": 1
+        },
+        {
+              "id": 27,
+              "cliente_NOMBRE": "25YT",
+              "cliente_ID": "gg_116152060195741273040",
+              "Client_KeyAccecs": "XTPRIVATESKIN",
+              "cliente_DateExpired": "2031-01-16",
+              "status": 1,
+              "Client_VisibleSkin": "1200",
+              "Client_VisibleSkin1": "1201",
+              "Client_VisibleSkin2": "1202",
+              "Client_VisibleSkin3": "1203",
+              "Client_VisibleSkin4": "0000",
+              "Client_VisibleSkin5": "0000",
+              "Client_VisibleSkin6": "0000",
+              "Client_VisibleSkin7": "0000",
+              "Client_VisibleSkin8": "0000",
+              "Client_VisibleSkin9": "0000",
+              "Client_VisibleSkin10": "0000"
         }
     ]
 }
