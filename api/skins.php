@@ -17116,7 +17116,7 @@
       ]
     },
     {
-      "isCustom": true,
+      "isCustom": false,
       "id": "2026",
       "img": "st.png",
       "name": {
