@@ -17107,7 +17107,7 @@
     {
       "isCustom": true,
       "id": "WFC - Friends",
-      "img": "101.clan.png",
+      "img": "Dv.png",
       "name": {
         "en": "WFC - Friends"
       },
@@ -17120,7 +17120,7 @@
     {
       "isCustom": false,
       "id": "2026",
-      "img": "st.png",
+      "img": "101.clan.png",
       "name": {
         "en": "2026"
       },
