@@ -67,7 +67,7 @@
               "cliente_DateExpired": "2025-09-01",
               "status": 1,
               "Client_VisibleSkin": "1091",
-              "Client_VisibleSkin1": "0000",
+              "Client_VisibleSkin1": "1091",
               "Client_VisibleSkin2": "0000",
               "Client_VisibleSkin3": "0000",
               "Client_VisibleSkin4": "0000",
